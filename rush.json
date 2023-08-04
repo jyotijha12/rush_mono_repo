@@ -20,6 +20,14 @@
   {
     "packageName": "@shared/components",
     "projectFolder": "libs/components"
-}
+  },
+  {
+    "packageName": "@monorepo/react-scripts",
+    "projectFolder": "packages/react-scripts"
+  },
+  {
+    "packageName": "@monorepo/eslint-config",
+    "projectFolder": "packages/eslint-config"
+  }
   ]
 }
